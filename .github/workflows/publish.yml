@@ -16,6 +16,7 @@ jobs:
       
       - name: Install and activate renv
         run: |
+          .libPaths()
           install.packages("knitr")
           install.packages("rmarkdown")
           renv::activate()
