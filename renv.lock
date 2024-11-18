@@ -20,21 +20,14 @@
       "RemoteSha": "d663dbb7e806cfc69236c578159004deb40fde3f",
       "Requirements": [
         "R",
-        "caret",
-        "ciftiTools",
-        "circlize",
         "cowplot",
-        "doParallel",
-        "doSNOW",
         "fMRItools",
-        "foreach",
         "ggplot2",
         "ggplotify",
         "ggraph",
         "grid",
         "gridExtra",
         "igraph",
-        "parallel",
         "plotly",
         "png",
         "psych",
@@ -298,7 +291,6 @@
         "ModelMetrics",
         "R",
         "e1071",
-        "foreach",
         "ggplot2",
         "grDevices",
         "lattice",
@@ -315,44 +307,7 @@
       ],
       "Hash": "528692344d5a174552e3bf7acdfbaebd"
     },
-    "ciftiTools": {
-      "Package": "ciftiTools",
-      "Version": "0.16.1",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "RColorBrewer",
-        "RNifti",
-        "fields",
-        "gifti",
-        "grDevices",
-        "oro.nifti",
-        "rgl",
-        "viridisLite",
-        "xml2"
-      ],
-      "Hash": "aef4fc87ef431cc3bebb5d54cbefbc5b"
-    },
-    "circlize": {
-      "Package": "circlize",
-      "Version": "0.4.16",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "GlobalOptions",
-        "R",
-        "colorspace",
-        "grDevices",
-        "graphics",
-        "grid",
-        "methods",
-        "shape",
-        "stats",
-        "utils"
-      ],
-      "Hash": "bf366c80e2b55a5383b4af8fa2a10b74"
-    },
+ 
     "class": {
       "Package": "class",
       "Version": "7.3-22",
@@ -482,34 +437,6 @@
       ],
       "Hash": "33698c4b3127fc9f506654607fb73676"
     },
-    "doParallel": {
-      "Package": "doParallel",
-      "Version": "1.0.17",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "foreach",
-        "iterators",
-        "parallel",
-        "utils"
-      ],
-      "Hash": "451e5edf411987991ab6a5410c45011f"
-    },
-    "doSNOW": {
-      "Package": "doSNOW",
-      "Version": "1.0.20",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "foreach",
-        "iterators",
-        "snow",
-        "utils"
-      ],
-      "Hash": "4bf4423d2c8b68c93b47e32ec554c2f1"
-    },
     "dotCall64": {
       "Package": "dotCall64",
       "Version": "1.2",
@@ -621,19 +548,6 @@
       ],
       "Hash": "bd1297f9b5b1fc1372d19e2c4cd82215"
     },
-    "foreach": {
-      "Package": "foreach",
-      "Version": "1.5.2",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "codetools",
-        "iterators",
-        "utils"
-      ],
-      "Hash": "618609b42c9406731ead03adf5379850"
-    },
     "fs": {
       "Package": "fs",
       "Version": "1.6.5",
@@ -644,35 +558,6 @@
         "methods"
       ],
       "Hash": "7f48af39fa27711ea5fbd183b399920d"
-    },
-    "future": {
-      "Package": "future",
-      "Version": "1.34.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "digest",
-        "globals",
-        "listenv",
-        "parallel",
-        "parallelly",
-        "utils"
-      ],
-      "Hash": "475771e3edb711591476be387c9a8c2e"
-    },
-    "future.apply": {
-      "Package": "future.apply",
-      "Version": "1.11.3",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "future",
-        "globals",
-        "parallel",
-        "utils"
-      ],
-      "Hash": "0efead26b03bb60716ed29971b1953dc"
     },
     "generics": {
       "Package": "generics",
@@ -1294,18 +1179,6 @@
       ],
       "Hash": "82d32ebd548c6a4e7de73bab96411b3b"
     },
-    "parallelly": {
-      "Package": "parallelly",
-      "Version": "1.39.0",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "parallel",
-        "tools",
-        "utils"
-      ],
-      "Hash": "1d60a6e27e3f1753945cf305735dda19"
-    },
     "plotly": {
       "Package": "plotly",
       "Version": "4.10.4",
@@ -1425,7 +1298,6 @@
         "methods",
         "mnormt",
         "nlme",
-        "parallel",
         "stats"
       ],
       "Hash": "4448d5f3ac3e2cbf79074391d494637e"
@@ -1610,17 +1482,6 @@
         "stats"
       ],
       "Hash": "5c47e84dc0a3ca761ae1d307889e796d"
-    },
-    "snow": {
-      "Package": "snow",
-      "Version": "0.4-4",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [
-        "R",
-        "utils"
-      ],
-      "Hash": "40b74690debd20c57d93d8c246b305d4"
     },
     "spam": {
       "Package": "spam",
