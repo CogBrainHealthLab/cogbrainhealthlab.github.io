@@ -16,7 +16,8 @@ jobs:
       
       - name: Install and activate renv
         run: |
-          install.packages(c("knitr","rmarkdown"))
+          install.packages("knitr")
+          install.packages("rmarkdown")
           renv::activate()
           renv::restore()
       - name: Set up Quarto
