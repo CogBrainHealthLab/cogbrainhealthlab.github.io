@@ -53,7 +53,7 @@
 .quarto-navbar-tools {
   position: fixed;
   left: 50%;
-  transform: translateX(360px);
+  transform: translateX(355px);
   bottom: 0px;
 }
 
