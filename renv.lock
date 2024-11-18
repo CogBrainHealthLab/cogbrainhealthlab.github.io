@@ -949,7 +949,6 @@
       "Requirements": [
         "R",
         "R6",
-        "curl",
         "jsonlite",
         "mime",
         "openssl"
