@@ -1,0 +1,45 @@
+---
+title: "Software"
+---
+
+We have used a number of in-house developed tools in our work, including the two R packages described here.
+
+### [VertexWiseR](https://github.com/CogBrainHealthLab/FCtools)
+
+This R package contains a suite of tools to extract, manipulate, analyze, and visualize cortical surface and hippocampal vertex-wise data. This R package is designed to be easy for beginners and it also contains advanced functionalities such as hippocampal surface analyses, meta-analytic decoding, threshold-free cluster enhancement, and mixed effects models that would appeal to experienced researchers. This R package is now available on CRAN (you simply `install.packages("VertexWiseR)`) and it accompanying paper is now published at [Imaging Neuroscience](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00372/125038/VertexWiseR-a-package-for-simplified-vertex-wise)
+
+![](images/VertexWiseR.jpeg)
+
+Do check out the following examples to get started:
+
+1.  [Extracting surface data](https://cogbrainhealthlab.github.io/VertexWiseR/articles/VertexWiseR_surface_extraction.html)
+2.  [Example analyses 1](https://cogbrainhealthlab.github.io/VertexWiseR/articles/VertexWiseR_Example_1.html)
+3.  [Example analyses 2](https://cogbrainhealthlab.github.io/VertexWiseR/articles/VertexWiseR_Example_2.html)
+
+------------------------------------------------------------------------
+
+### [FCtools R package](https://github.com/CogBrainHealthLab/FCtools)
+
+A collection of in-house R functions for post-processing, analyzing and visualizing brain connectivity data
+
+1.  Working with HCP data
+    -   generating download lists for HCP data: `extract_links`
+    -   post-processing and extracting FC matrices from HCP-preprocessed fMRI data: `extractFC()`
+2.  Working with fMRIprep preprocessed data
+    -   Extracting head motion data from fMRIprep preprocessed directories: `extract_headmotion()`
+    -   Vectorizing and concatenating a cohort of participants FC matrices into a single N (number of subjects) x E (number of edges) matrix: `vectorizeFC()`
+3.  Analyses
+    -   A faster and more efficient analysis of Network-based statistics: `NBS()`
+    -   Intersubject similarity analysis: `intersubject_similarity()`
+    -   Connectome-based prediction modelling: `cpm.train()`, `cpm.train.cv()`, `cpm.predict()`, `cpm.train()`, `cpm.lesion()`
+4.  Visualization of FC
+    -   Connectogram `vizConnectogram()`, chord diagram `vizChord()` and heatmap `vizHeatmap()` ![](images/FCtools.png)
+    -   Glassbrain plot `vizGlassbrain()` (New!)
+
+```{r, echo=FALSE}
+library(FCtools)
+mask=sample(c(1,0), 7021, replace = TRUE, prob = c(0.003, 0.997))
+data=runif(7021,min = -1,max=1)*mask
+
+vizGlassbrain(data,orientation_labels = T)
+```

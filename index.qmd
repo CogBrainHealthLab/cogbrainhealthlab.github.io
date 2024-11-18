@@ -1,0 +1,17 @@
+---
+title: "About Us"
+---
+
+We are a lab housed in Psychology, School of Social Sciences, Nanyang Technological University, Singapore. Our research makes use of multimodal neuroimaging to broadly study neuropsychology and cognitive aging.
+
+------------------------------------------------------------------------
+
+**Some cool stuff that we do:**
+
+![](images/corticalthinning.gif){width="745"}
+
+Analyses of cortical thickness: Age-related cortical thinning
+
+![](images/FC.gif)
+
+Analyses of whole brain functional connectomes: Resting state connectivity profiles across the lifespan

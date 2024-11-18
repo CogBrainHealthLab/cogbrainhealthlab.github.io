@@ -1,0 +1,62 @@
+/* css styles */
+.navbar-logo {
+  max-height: 100px;
+}
+.navbar-container {
+  height: 130px;
+}
+.navbar-brand-container {
+  position: fixed;
+  left: 50%;
+  top: 0;
+  transform: translateX(-410px);
+}
+.navbar-collapse {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-410px);
+  bottom: 0;
+}
+.nav-link: {
+    color: grey;
+}
+.nav-link:visited {
+    color: grey;
+}
+.active {
+    color: #77CD6E;
+    font-weight: bold;
+}
+
+.menu-text {
+  white-space: nowrap;
+  color: grey;
+  font-size: 20px;
+}
+.menu-text:hover {
+  color: #77CD6E;
+  font-size: 20px;
+}
+
+.menu-text:active {
+  color: grey;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.bi-github {
+  font-size: 2rem;
+}
+.bi-github:hover {
+  color: #77CD6E;
+}
+.quarto-navbar-tools {
+  position: fixed;
+  left: 50%;
+  transform: translateX(360px);
+  bottom: 0px;
+}
+
+.title {
+  text-align: center;
+}
