@@ -3,7 +3,7 @@ title: "Participate in our studies"
 ---
 
 ```{=html}
-<object data="PGMH.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="PDF/PGMH.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
     No biggie... you can <a href="PGMH.pdf">click here to
     download the PDF file.</a></p>
@@ -13,7 +13,7 @@ title: "Participate in our studies"
 ------------------------------------------------------------------------
 
 ```{=html}
-<object data="MW.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="PDF/MW.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
     No biggie... you can <a href="MW.pdf">click here to
     download the PDF file.</a></p>
