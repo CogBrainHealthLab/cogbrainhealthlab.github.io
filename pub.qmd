@@ -3,7 +3,7 @@ title: "Publications"
 bibliography: scopus.bib
 nocite: |
   @*
-csl: https://github.com/citation-style-language/styles/blob/master/apa.csl?raw=TRUE
+csl: apa7th.csl
 ---
 
 ::: {#refs}
