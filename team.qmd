@@ -12,7 +12,8 @@ title: "The Team"
 ::: {.column width="80%"}
 #### Yu Junhong— Assistant Professor of Psychology
 
-PhD, The University of Hong KongResearch interests: My research makes use of multimodal neuroimaging to study neuropsychology and cognitive aging in general. In particular, I am interested neurocognitive disorders, superior cognitive aging, neural predictors of cognitive decline and cognitive enhancement interventions
+PhD, The University of Hong Kong
+Research interests: My research makes use of multimodal neuroimaging to study neuropsychology and cognitive aging in general. In particular, I am interested neurocognitive disorders, superior cognitive aging, neural predictors of cognitive decline and cognitive enhancement interventions
 :::
 :::
 
