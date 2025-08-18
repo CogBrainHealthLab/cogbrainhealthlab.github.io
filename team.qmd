@@ -4,7 +4,7 @@ title: "The Team"
 
 ### **Lab director**
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
 ![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2021/10/JH-300x295.jpg){width="150"}
 :::
@@ -15,180 +15,168 @@ title: "The Team"
 PhD, The University of Hong Kong\
 Research interests: My research makes use of multimodal neuroimaging to study neuropsychology and cognitive aging in general. In particular, I am interested neurocognitive disorders, superior cognitive aging, neural predictors of cognitive decline and cognitive enhancement interventions
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 ### **Research Staff**
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
 ![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2023/10/Charly-230x230.jpg){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Charly Billaud— Research Fellow
+#### Charly Billaud — Research Fellow
 
 PhD (Neurosciences), Aston University, Birmingham, United Kingdom\
 Research interests: Translational research involving neuropsychology and neuroimaging, including structural/functional MRI, DTI, and MEG. I have a particular interest in both aging and paediatric clinical populations with neurological disorders and developing markers of cognition and behaviour. My work involves structural and functional network analyses and graph theory.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
 ![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2021/10/dexter-230x230.jpg){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Dexter Chew— Research Assistant
+#### Dexter Chew — Research Assistant
 
 BA (Psychology), University at Buffalo\
 Research interests: My research interests are in topics such as Mental Health of Elderly Patients, Elder Abuse with Long-Lasting Psychological consequences as well as Psychosocial Development of Criminals. I became interested in the mental health aspects of the elderly stemming from 2 years of working in the non-profit sector as well as being an active member of the grassroots level in Singapore. This has helped establish the different views and interests in the elderly being overlooked or becoming a marginalized group of individuals in society. Further interests in criminal psychosocial developments stemmed from an interest in reading serial killer bibliographies and documentaries that have led to a fascination of how the minds of hardened criminals are like.
 :::
-:::
-
-::: columns
-::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2023/08/dionis_cropped-230x230.jpg){width="150"}
-:::
-
-::: {.column width="80%"}
-#### Dionis Chong— Research Assistant
-
-BA in Psychology, Dublin Business School\
-Research interests: The general scope of my research interests include topics on creativity, intelligence and interpersonal relationships. Having been a gig musician for most of my life, the function of creativity relating to mental health and function as always been on the forefront of my curiosity. The skillset I’ve attained through learning how research is done in college allows me to pursue this question through a proper scientific means. I did my undergraduate thesis on Romantic Passion and Emotional Intelligence through Attachment Styles between the two biological sexes, which jumpstarted my interest in the inner workings of interpersonal relationships and how they relate to intelligence and mental functions. I hope to gain more skills within the neuroscientific sphere while working in this lab to enhance the quality of my research into these topics in the future.
-:::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 ### **Graduate students**
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
 ![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2021/10/Savannah2.jpg){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Savannah Siew— PhD student
+#### Savannah Siew — PhD student
 
 B.Soc.Sci (Psychology), National University of Singapore\
 Research interests: Neuropsychology, mindfulness, clinical psychology
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
 ![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2023/12/Janice_cropped.jpg){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Janice Koi— PhD student
+#### Janice Koi — PhD student
 
 B.A. Hons (Psychology), Nanyang Technological University\
 Research Interests: I am interested in using multimodal neuroimaging techniques to study the neurocognitive mechanisms of healthy aging.
 :::
+:::::
+
+::::: columns
+::: {.column width="20%"}
+![](images/qiruicropped.png){width="150"}
 :::
+
+::: {.column width="80%"}
+#### See Qi Rui — PhD student
+
+B.Sc. (Hons) in Biological Sciences, Nanyang Technological University\
+Research Interests: I am interested in investigating the neurocognitive role of sleep and mental health in healthy aging and neurodegenerative disorders.
+:::
+:::::
 
 ------------------------------------------------------------------------
 
 ### **Undergraduate students**
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Kayla_cropped-230x230.jpg){width="150"}
+![](images/xaviercropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Kayla Tan— FYP student
+#### Xavier Lim — FYP/URECA student
 
-Research Interests: I am interested in the inseparable role brain functions have in psychological phenomenon, particularly ADHD; anxiety and depression.
+Research Interests: My research interests lie in the intersection of translational clinical neuroscience and MRI methods. Specifically, I apply network analyses and normative modelling to investigate brain-based predictors of psychiatric disorders such as depression and anxiety. In another line of research, I am also interested in how arts-based interventions can improve the living experiences of people living with dementia.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Lee-Zheng-Long_cropped-230x230.jpg){width="150"}
+![](images/jiahuicropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Lee Zheng Long— FYP student
+#### Yong Jia Hui — FYP student
 
-Research Interests: I am interested in understanding the pathology of affective disorders and neurodegenerative disorders, particularly Alzheimer’s disease. I seek to do so using neuroimaging methods, like structural, functional and diffusion MRI. Specifically, I use approaches like network neuroscience, DTI, and fixel-based analysis. I am also curious about the value of these neuroimaging markers as predictors of AD progression.
+Research Interests: I am interested in understanding the mechanisms that underlie neurodegenerative diseases, and the brain differences between healthy individuals and patients with neurological or psychiatric conditions. On top of that, I am passionate about researching lifestyle factors (eg. dietary habits, sleep) and developing interventions that can improve brain health.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Ellsie_cropped.jpg){width="150"}
+![](images/sarahcropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Ellsie Lee— FYP student
+#### Sarah Aleisha — FYP student
 
-Research Interests: mental health and it’s underlying mechanisms and management.
+Research Interests: I'm interested in understanding how social factors shape developmental outcomes in behaviour and cognition, and in applying neuroscience methods in understanding these effects across the lifespan. I am also interested in understanding how neurodevelopmental disorders, such as ADHD, may influence cognitive outcomes in adulthood and later life.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/09/candace_cropped-230x230.jpg){width="150"}
+![](images/shonacropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Candace Tan— FYP student
+#### Shona Chong — FYP student
 
-Research Interests: My research interest is in neuropsychology, particularly in neurodivergent populations and in neurodegenerative diseases. I seek to learn more about neuroimaging techniques and how they can be used to support research in these areas.
+Research Interests: My interests lie in neuropsychology, with a focus on understanding the factors that contribute to the development and progression of cognitive and neurodegenerative disorders through the use of neuroimaging techniques.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Bryan_cropped.jpg){width="150"}
+![](images/nicolettecropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Bryan Yeo— URECA student
+#### Nicolette Marie Monterio — URECA student
 
-Research Interests: My research interest lies in using neurocognitive assessments and brain imaging techniques to better understand neurodegenerative disorders associated with ageing.
+Research Interests: I would be keen to generally explore the topic of youths diagnosed with anxiety.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Emilienne_cropped.jpeg.jpg){width="150"}
+![](images/sherrercropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Emilienne Ho— URECA student
+#### Sherrer See — URECA student
 
-Research Interests: I am interested in neuropsychology, especially how brain injuries or neurological disorders impact a person’s mental state and daily life. I hope that with access to neuroimaging techniques, I can study more about this effect.
+Research Interests: I am interested in the study of substance use disorders, how substance use of psychoactive drugs affects brain structure, function and cognitive trajectories. I am also interested in the mechanisms behind how substance use could affect neurodegenerative processes, and how neuroimaging could be utilized to better provide rehabilitative services.
 :::
-:::
+:::::
 
-::: columns
+::::: columns
 ::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Nicolas_cropped-230x230.jpg){width="150"}
+![](images/rachelcropped.png){width="150"}
 :::
 
 ::: {.column width="80%"}
-#### Nicolas Lok— URECA student
+#### Rachel Ng — URECA student
 
-Research Interests: My research interests focus on psychiatric disorders, with a particular emphasis on anxiety-related disorders, as well as neurodegenerative diseases such as Alzheimer’s disease. I am passionate about understanding the underlying mechanisms of these conditions and exploring potential therapeutic strategies to improve patient outcomes.
+Research Interests: My interest lies in the neuropsychology of disadvantaged communities – specifically how past experiences and socio-economic factors shape cognitive function and behavior. By gaining a more nuanced perspective of the impacts of inequality in both Singapore and the world. I hope to contribute to practical interventions to uplift these individuals and communities.
 :::
-:::
-
-::: columns
-::: {.column width="20%"}
-![](https://blogs.ntu.edu.sg/cogbrainhealthlab/files/2024/08/Isaac_cropped-230x230.jpg){width="150"}
-:::
-
-::: {.column width="80%"}
-#### Isaac Teo— URECA student
-
-Isaac Teo— URECA student Research Interests: My interests are in the mechanisms of cognitive decline in ageing and its associated social, emotional, and behavioural outcomes. I am also interested in the development of interventions that delay cognitive decline and optimise brain health to preserve functions and maintain dignified ageing.
-:::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -196,8 +184,12 @@ Isaac Teo— URECA student Research Interests: My interests are in the mechanism
 
 #### **FYP**
 
+-   Candace Tan (2024-2025)
+-   Ellsie Lee (2024-2025)
+-   Lee Zheng Long (2024-2025) — **Admitted to PhD \@ Max Planck School of Cognition**
+-   Kayla Tan (2024-2025)
 -   Lisa Wong (2023-2024)
--   Tan Fu Miao (2023-2024) — **Lee Kuan Yew Gold Medal, and Best Datablitz Presentation at AS4SAN 2024 conference**
+-   Tan Fu Miao (2023-2024) — **Admitted to MPhil \@ Cambridge \| Lee Kuan Yew Gold Medal, and Best Datablitz Presentation at AS4SAN 2024 conference**
 -   Angel Lee (2023-2024)
 -   Genevieve Ling (2022-2023)
 -   Cleon Chang (2022-2023)
@@ -206,11 +198,15 @@ Isaac Teo— URECA student Research Interests: My interests are in the mechanism
 
 #### **URECA**
 
--   Kng Jia Hao (2023-2024)
+-   Lucius Hong (2024-2025)
+-   Nicolas Lok (2024-2025)
+-   Emilienne Ho (2024-2025)
+-   Bryan Yeo (2024-2025)
+-   Kng Jia Hao (2023-2024) — **Admitted to MSc**
 -   Wang Jieqi (2023-2024)
 -   Alastair Khoo (2023-2024)
 -   Xavier Lim (2023-2024)
 -   Lee Zheng Long (2022-2023)
 -   Gisele Cheong (2022-2023)
 -   Celine Chan (2021-2022)
--   Dan Yuet Ruh (2021-2022)
+-   Dan Yuet Ruh (2021-2022) — **Admitted to MD \@ Duke-NUS**
