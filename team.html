@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -28,14 +28,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-09a537db459c3a44f265817c271f37db.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-887861908e94c05e58a116b7c5a817c7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -64,7 +65,8 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/lablogowhitebgcropped.png" alt="" class="navbar-logo">
+    <img src="./images/lablogowhitebgcropped.png" alt="" class="navbar-logo light-content">
+    <img src="./images/lablogowhitebgcropped.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -303,7 +305,16 @@ Research Interests: I am interested in investigating the neurocognitive role of 
 <h4 class="anchored" data-anchor-id="charissa-gan-ureca-student">Charissa Gan — URECA student</h4>
 <p>Research Interests: Charissa is broadly interested in the neurocognitive effects of early-life trauma and socioeconomic adversity, particularly in conflict-affected and low-resource contexts. She wishes to explore how trauma and chronic stress influence neurodevelopment, with a specific focus on brain regions such as the amygdala and their role in fear and emotional regulation. She is passionate about trauma-informed care, global mental health, and understanding how life adversity impacts the brain from a population neuroscience perspective.</p>
 </section>
-</div><hr><section id="previous-students" class="level3">
+</div><div class="columns">
+<div class="column" style="width:20%;">
+<p><img src="images/clarissecropped.png" class="img-fluid" width="150"></p>
+</div><div class="column" style="width:80%;">
+<section id="clarisse-leong-ureca-student" class="level4">
+<h4 class="anchored" data-anchor-id="clarisse-leong-ureca-student">Clarisse Leong — URECA student</h4>
+<p>Research Interests: I am interested in the neuroscience of ageing and neurodegeneration, particularly in leveraging neuroimaging and biomarkers for the early detection of dementia. I hope to contribute to a better understanding of how structural, functional, and connectivity-based brain changes alongside biological risk factors track cognitive decline across the disease continuum</p>
+<hr>
+</section>
+<section id="previous-students" class="level3">
 <h3 class="anchored" data-anchor-id="previous-students"><strong>Previous Students</strong></h3>
 <section id="fyp" class="level4">
 <h4 class="anchored" data-anchor-id="fyp"><strong>FYP</strong></h4>
@@ -340,8 +351,8 @@ Research Interests: I am interested in investigating the neurocognitive role of 
 </section>
 </section>
 </div>
-
-
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -396,13 +407,14 @@ Research Interests: I am interested in investigating the neurocognitive role of 
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
